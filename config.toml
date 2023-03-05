@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-at'
+title = 'Jagd Pabneukirchen'
+theme = 'universal'
+#themesDir = "../.."
+
+[menu]
+
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[params]
+    author = "Hubert Inreiter"
+    style = "green"
+    logo_text = "Jagd Pabneukirchen"
+    logo = "img/jagd-logo.png"
