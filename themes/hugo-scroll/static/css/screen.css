@@ -458,11 +458,6 @@ ul li {
   vertical-align: middle;
 }
 
-.vertical-bottom {
-  display: table-cell;
-  vertical-align: bottom;
-}
-
 /* ==========================================================================
       4. General - The main styles for the the theme
       ========================================================================== */

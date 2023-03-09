@@ -1,11 +1,15 @@
 ---
-title: "Contact"
+title: "Kontakt"
 weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+![Jagdgesellschaft Pabneukirchen](img/jagd-logo.png)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+Jagdleiter Andreas Ebner
 
-Let us get in touch!
+{{<icon class="fa fa-phone">}}&nbsp;[07265/5412](tel:+4372655412) oder {{<icon class="fa fa-phone">}}&nbsp;[0676/814206813](tel:+43676814206813)
+
+
+
+
