@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 weight: 5
-header_menu: true
+header_menu: false
 ---
 
 Jagdgesellschaft Pabneukirchen

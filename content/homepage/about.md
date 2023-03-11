@@ -1,7 +1,7 @@
 ---
 title: "Wissenswertes"
 weight: 2
-header_menu: false
+header_menu: true
 ---
 
 ---
